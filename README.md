@@ -11,10 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 Engineering student in Computer Science at **ENIT** (National Engineering School of Tunis), also enrolled in the research master **Information System Techniques**  
-- 🤖 Focused on **Machine Learning, Deep Learning, NLP and LLM-based systems** (RAG, agents)  
-- 🏢 Experience at **Sofrecom Tunisia** and **Huawei Technologies Tunisia**  
-- 🌍 Active member of **IEEE ENIT Student Branch**  
-- 🔎 Currently looking for a **PFE (final-year) internship** where I can build innovative AI-driven products
+- 🤖 Focused on **Machine Learning, Deep Learning, NLP and LLM-based systems**  
 
 ### 🛠️ Tech Stack
 
